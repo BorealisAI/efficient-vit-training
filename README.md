@@ -59,14 +59,15 @@ To plot the accuracy per time results, use plot_output.py with your own paths.
 
 Please cite the paper if you use the idea or code.
 
+```latex
 @misc{irandoust2022training,
-      title={Training a Vision Transformer from scratch in less than 24 hours with 1 GPU}, 
+      title={{Training a Vision Transformer from scratch in less than 24 hours with 1 GPU}}, 
       author={Saghar Irandoust and Thibaut Durand and Yunduz Rakhmangulova and Wenjie Zi and Hossein Hajimirsadeghi},
       year={2022},
       eprint={2211.05187},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
+```
 
 
